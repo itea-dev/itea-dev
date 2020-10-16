@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Ismail 👋
+
+- 🔭 I’m currently working on front-end projects using Angular and Vue
+- 🌱 I’m currently learning Angular and NestJs
+- 💬 Ask me about anything
+
+[![iTea Dev's github stats](https://github-readme-stats.vercel.app/api?username=itea-dev)](https://github.com/itea-dev)
 
 <!--
 **itea-dev/itea-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
